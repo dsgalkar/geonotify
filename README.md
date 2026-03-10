@@ -18,7 +18,7 @@ Citizens are often unaware of government infrastructure projects happening in th
 - **Smart Notifications** — Triggered automatically when you enter a project's geo-fence zone
 - **Project Detail Cards** — Progress bars, civic impact metrics, budget transparency, update timelines
 - **Feed View** — Scrollable list of nearby active & completed projects
-- **Alerts Tab** — All geo-fence triggered notifications in one place
+- **Alerts Tab** — All geo-fence triggered notifications in one place.
 
 ### 🏛️ Admin Dashboard
 - **Project Management** — Add, edit, delete government projects
