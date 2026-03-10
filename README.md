@@ -6,7 +6,7 @@
 
 ## 📖 Problem Statement
 
-Citizens are often unaware of government infrastructure projects happening in their vicinity — hospitals, metro lines, roads, and water grids. CivicPulse solves this by building a **geo-fencing system** around public development sites that triggers **location-aware notifications** explaining the work completed and its civic impact.
+Citizens are often unaware of government infrastructure projects happening in their vicinity — hospitals, metro lines, roads, and water grids. GeoNotify solves this by building a **geo-fencing system** around public development sites that triggers **location-aware notifications** explaining the work completed and its civic impact.
 
 ---
 
